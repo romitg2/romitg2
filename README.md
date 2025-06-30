@@ -1,6 +1,3 @@
-Hi, I'm Romit.
-I like to solve problems using Code.
+Hi, I'm Romit. 
 
-
-- Fundamentals > Frameworks
-- Thinking with First principles
+romitgabani1@gmail.com
