@@ -1,6 +1,4 @@
 Hi, I'm Romit. 
 
-romitgabani1@gmail.com
-
-Fundamentals > Frameworks 
+- romitgabani1@gmail.com
 
